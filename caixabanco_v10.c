@@ -13,7 +13,7 @@
 **********************************************************************************************************************************************************/
 
 //o programa a seguir em conjunto com o programa "totem" tem como objetivo implementar uum controle de caixa bancário e controle de filas integrado no mesmo sistema
-
+//teste
 //bibliotecas
 #include <stdio.h>
 #include <time.h>//manipula tempo do sistema
